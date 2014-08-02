@@ -1,4 +1,4 @@
 steganography
 =============
 
-An experimental steganography app. Not for real use, only for fun.
+An experimental steganography app - not for real use
